@@ -30,3 +30,8 @@ $ python VideoDownloader.py
 - Ability to capture thumbnail URL
 - Extensively documented source code
 - No third-party dependencies
+
+## Sponsored by
+![patrocinador](https://media.discordapp.net/attachments/901284069848018957/964923564425875536/unknown-1.png)
+
+
