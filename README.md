@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 ```
 
 ```bash
-$ python VideoDownloader.py
+$ python main.py
 ```
 
 ![tilambucas](https://media.discordapp.net/attachments/898027768787390497/964754766381056011/unknown.png)
